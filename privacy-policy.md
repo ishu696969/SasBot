@@ -1,6 +1,6 @@
-# Florida Discord Bot - Privacy Policy
+# SasBot Discord Bot - Privacy Policy
 
-This document outlines the privacy policy for the Discord bot ("Florida") and its associated services provided by the developer.
+This document outlines the privacy policy for the Discord bot ("SasBot") and its associated services provided by the developer.
 
 ## Information Collected
 
@@ -44,4 +44,4 @@ This Privacy Policy may undergo updates periodically. Any alterations become eff
 
 ## Contact Us
 
-For inquiries or concerns regarding this Privacy Policy, please contact the developer at [Support](https://discord.gg/CfGJ2dEFnm).
+For inquiries or concerns regarding this Privacy Policy, please contact the developer at [Support](https://discord.gg/YVYuzSg9e4).
